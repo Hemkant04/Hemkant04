@@ -8,11 +8,11 @@
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **[Project Name or Tech Stack]**
-- 🌱 I’m currently learning **[New Skill, e.g., Next.js, Go, or AI]**
+- 🌱 I’m currently learning **Python With Data Science**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, Python, or Web Development**
-- 📫 How to reach me: **[Your Email]**
-- ⚡ Fun fact: **I love [Your Hobby, e.g., Chess, Gaming, or Hiking]**
+- 📫 How to reach me: **hemkanta04@gmail.com**
+- ⚡ Fun fact: **I love Chess,Gaming,Hiking**
 
 ---
 
@@ -40,9 +40,8 @@
 
 ### 🤝 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hemkant" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hemkantsah01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hemkant" height="30" width="40" /></a>
 <a href="https://twitter.com/YOUR_TWITTER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hemkant" height="30" width="40" /></a>
-<a href="https://instagram.com/YOUR_INSTAGRAM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Hemkant" height="30" width="40" /></a>
 </p>
 
 ---
