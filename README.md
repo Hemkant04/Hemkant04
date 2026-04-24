@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **[Project Name or Tech Stack]**
+- 🔭 I’m currently working on **Resume ATS Ranker**
 - 🌱 I’m currently learning **Python With Data Science**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, Python, or Web Development**
